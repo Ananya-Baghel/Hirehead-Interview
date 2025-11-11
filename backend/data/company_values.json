@@ -1,9 +1,49 @@
 {
-  "company_name": "Acme Corp",
-  "values_text": [
-    "We prioritize customer obsession and long-term trust.",
-    "We act with ownership, frugality, and high standards.",
-    "We value diversity, inclusion, and respectful debate.",
-    "We ship fast, learn from data, and iterate."
+  "companies": [
+    {
+      "company_name": "Acme Corp",
+      "values_text": [
+        "We prioritize customer obsession and long-term trust.",
+        "We act with ownership, frugality, and high standards.",
+        "We value diversity, inclusion, and respectful debate.",
+        "We ship fast, learn from data, and iterate rapidly."
+      ]
+    },
+    {
+      "company_name": "TechVision",
+      "values_text": [
+        "We innovate continuously and embrace technological change.",
+        "We build for scale, reliability, and global audiences.",
+        "We encourage transparent communication and bold thinking.",
+        "We believe in craftsmanship, detail, and performance."
+      ]
+    },
+    {
+      "company_name": "FinEdge",
+      "values_text": [
+        "We protect customer financial well-being above all.",
+        "We adhere to accuracy, compliance, and ethical standards.",
+        "We make decisions rooted in analytics and long-term impact.",
+        "We value transparency, trust, and responsible growth."
+      ]
+    },
+    {
+      "company_name": "DesignFlow",
+      "values_text": [
+        "We believe great design is simple, intuitive, and human-centered.",
+        "We collaborate with cross-functional teams to create harmony.",
+        "We value creativity, emotional impact, and accessibility.",
+        "We constantly refine and iterate to improve user experience."
+      ]
+    },
+    {
+      "company_name": "SalesForge",
+      "values_text": [
+        "We focus on customer relationships and long-term partnerships.",
+        "We believe in persistence, ownership, and measurable outcomes.",
+        "We act with empathy and solution-oriented thinking.",
+        "We value integrity, clarity, and consistent performance."
+      ]
+    }
   ]
 }
