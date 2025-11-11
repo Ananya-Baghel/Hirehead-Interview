@@ -1,14 +1,87 @@
-software,hr,easy,Tell me about yourself and your recent projects.
+industry,persona,difficulty,question
+software,hr,easy,Tell me about yourself and your recent project.
+software,hr,easy,What motivates you to work in software engineering?
+software,hr,easy,How do you handle stress or tight deadlines?
 software,hr,medium,Describe a conflict you resolved within your team.
+software,hr,medium,How do you communicate decisions to non-technical stakeholders?
+software,hr,medium,What steps do you take to ensure smooth teamwork?
 software,hr,hard,How do you influence stakeholders without authority?
-software,tech,easy,Explain a bug you fixed recently and how you found it.
-software,tech,medium,How do you design a rate limiter for an API?
-software,tech,hard,Design a real-time chat system at scale.
-software,manager,easy,Walk me through a project you led end-to-end.
-software,manager,medium,How do you handle scope creep with fixed deadlines?
-software,manager,hard,How do you re-plan when key resources drop?
+software,hr,hard,Describe a situation where you had to defend your decision.
+software,hr,hard,How do you contribute to a strong engineering culture?
+software,tech,easy,Explain a bug you fixed recently.
+software,tech,easy,What is your favorite programming language and why?
+software,tech,easy,How do you debug a failing production feature?
+software,tech,medium,How do you design a rate limiter?
+software,tech,medium,Explain how you’d optimize a slow SQL query.
+software,tech,medium,How do you write scalable APIs?
+software,tech,hard,Design a scalable chat application.
+software,tech,hard,How do you architect a real-time notification system?
+software,tech,hard,Explain how you'd design a distributed file storage system.
+software,manager,easy,Walk me through a project you led.
+software,manager,easy,How do you prioritize tasks for your team?
+software,manager,easy,How do you track project progress?
+software,manager,medium,How do you handle scope creep?
+software,manager,medium,Explain a time you had to make a tough leadership decision.
+software,manager,medium,How do you set realistic timelines?
+software,manager,hard,How do you re-plan when key resources drop suddenly?
+software,manager,hard,Explain your approach to risk mitigation.
+software,manager,hard,Describe a complex cross-team project you coordinated.
+software,behavioral,easy,Tell me about a time you overcame a challenge.
+software,behavioral,easy,Describe a time you helped a teammate.
+software,behavioral,easy,What is your biggest improvement in the last year?
+software,behavioral,medium,Describe a failure and what you learned.
+software,behavioral,medium,Describe a time you showed leadership without authority.
+software,behavioral,medium,How do you give constructive feedback?
+software,behavioral,hard,Describe a conflict you couldn’t resolve.
+software,behavioral,hard,How do you handle criticism?
+software,behavioral,hard,Describe a highly ambiguous project and your approach.
 marketing,hr,easy,What campaign did you enjoy working on and why?
-marketing,hr,medium,How do you measure brand lift in multi-channel campaigns?
-marketing,manager,hard,How do you set CAC/LTV targets for new markets?
+marketing,hr,medium,How do you measure the success of a marketing campaign?
+marketing,hr,hard,How do you align brand messaging with company vision?
+marketing,manager,easy,How do you brainstorm creative ideas?
+marketing,manager,medium,Explain how you segment your target audience.
+marketing,manager,hard,How do you set CAC/LTV targets?
+marketing,behavioral,easy,Describe how you handled negative feedback from customers.
+marketing,behavioral,medium,Describe a time you managed a brand crisis.
+marketing,behavioral,hard,Explain a major marketing failure and what you learned.
 finance,hr,easy,Describe a time you worked under a strict budget.
-finance,manager,hard,Walk me through a DCF and key sensitivities.
+finance,hr,medium,How do you maintain accuracy in financial reporting?
+finance,hr,hard,How do you ensure audit readiness?
+finance,manager,easy,Walk me through your budgeting process.
+finance,manager,medium,Explain how you forecast market risks.
+finance,manager,hard,Walk me through a DCF model.
+finance,behavioral,easy,Describe how you handled a disagreement with a client.
+finance,behavioral,medium,Describe your most challenging financial analysis.
+finance,behavioral,hard,Explain how you handled a financial discrepancy.
+hr,hr,easy,Why did you choose HR as a career?
+hr,hr,medium,How do you handle employee disputes?
+hr,hr,hard,How do you build a healthy organizational culture?
+hr,manager,easy,How do you manage recruitment timelines?
+hr,manager,medium,Explain how you assess candidate culture-fit.
+hr,manager,hard,How do you create company-wide performance strategies?
+hr,behavioral,easy,Describe a time you diffused a tense situation.
+hr,behavioral,medium,How do you handle pushback from employees?
+hr,behavioral,hard,Describe the hardest HR decision you made.
+sales,hr,easy,What motivates you to work in sales?
+sales,hr,medium,How do you handle customer objections?
+sales,hr,hard,How do you retain clients who want to leave?
+sales,manager,easy,How do you track sales KPIs?
+sales,manager,medium,Describe how you manage quota pressure.
+sales,manager,hard,How do you forecast quarterly revenue?
+sales,behavioral,easy,Describe a time you closed a difficult deal.
+sales,behavioral,medium,Describe a time you lost a sale and what you changed.
+sales,behavioral,hard,How do you negotiate under pressure?
+design,hr,easy,What design tools are you most comfortable with?
+design,hr,medium,How do you collaborate with engineers and PMs?
+design,hr,hard,How do you justify design decisions?
+design,manager,easy,How do you prioritize feedback?
+design,manager,medium,How do you build a design system?
+design,manager,hard,How do you ensure accessibility in all designs?
+design,behavioral,easy,Describe a time you simplified a complex idea.
+design,behavioral,medium,Describe a time a design was rejected and how you responded.
+design,behavioral,hard,Explain how you solved a difficult UX challenge.
+software,hr,medium,How do you evaluate cultural fit in a team?
+software,tech,medium,Explain the CAP theorem.
+software,tech,hard,How do you design a load balancer?
+software,manager,medium,How do you measure engineering productivity?
+software,behavioral,hard,Describe a time you had to deliver bad news to your manager.
