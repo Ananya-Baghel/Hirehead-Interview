@@ -1,0 +1,20 @@
+{
+  "scenarios": [
+    {
+      "role": "Software Engineer",
+      "company_anchor": 18.0,
+      "budget_min": 17.0,
+      "budget_max": 22.0,
+      "benefits_anchor": ["joining bonus 0.5L", "WFH 2d/week"],
+      "notes": "Standard early-career offer"
+    },
+    {
+      "role": "Data Scientist",
+      "company_anchor": 20.0,
+      "budget_min": 19.0,
+      "budget_max": 26.0,
+      "benefits_anchor": ["education stipend 50k", "relocation support"],
+      "notes": "Analytics focus"
+    }
+  ]
+}
