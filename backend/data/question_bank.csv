@@ -1,0 +1,14 @@
+software,hr,easy,Tell me about yourself and your recent projects.
+software,hr,medium,Describe a conflict you resolved within your team.
+software,hr,hard,How do you influence stakeholders without authority?
+software,tech,easy,Explain a bug you fixed recently and how you found it.
+software,tech,medium,How do you design a rate limiter for an API?
+software,tech,hard,Design a real-time chat system at scale.
+software,manager,easy,Walk me through a project you led end-to-end.
+software,manager,medium,How do you handle scope creep with fixed deadlines?
+software,manager,hard,How do you re-plan when key resources drop?
+marketing,hr,easy,What campaign did you enjoy working on and why?
+marketing,hr,medium,How do you measure brand lift in multi-channel campaigns?
+marketing,manager,hard,How do you set CAC/LTV targets for new markets?
+finance,hr,easy,Describe a time you worked under a strict budget.
+finance,manager,hard,Walk me through a DCF and key sensitivities.
