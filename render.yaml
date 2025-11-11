@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: interview-bot-backend
+    env: docker
+    rootDir: backend
+    plan: free
+    autoDeploy: true
+
+  - type: web
+    name: interview-bot-frontend
+    env: node
+    rootDir: frontend
+    plan: free
+    buildCommand: "npm install && npm run build"
+    startCommand: "npm run start"
+    autoDeploy: true
+    envVars:
+      - key: BACKEND_URL
+        value: https://interview-bot-backend.onrender.com
+      - key: NEXT_PUBLIC_WS
+        value: wss://interview-bot-backend.onrender.com/ws/stream
