@@ -5,16 +5,70 @@
       "company_anchor": 18.0,
       "budget_min": 17.0,
       "budget_max": 22.0,
-      "benefits_anchor": ["joining bonus 0.5L", "WFH 2d/week"],
-      "notes": "Standard early-career offer"
+      "benefits_anchor": ["joining bonus 0.5L", "2 WFH days"]
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company_anchor": 26.0,
+      "budget_min": 24.0,
+      "budget_max": 32.0,
+      "benefits_anchor": ["1L joining bonus", "wellness stipend 40k"]
     },
     {
       "role": "Data Scientist",
       "company_anchor": 20.0,
-      "budget_min": 19.0,
+      "budget_min": 18.0,
       "budget_max": 26.0,
-      "benefits_anchor": ["education stipend 50k", "relocation support"],
-      "notes": "Analytics focus"
+      "benefits_anchor": ["education stipend 50k", "relocation support"]
+    },
+    {
+      "role": "Data Analyst",
+      "company_anchor": 12.0,
+      "budget_min": 10.0,
+      "budget_max": 15.0,
+      "benefits_anchor": ["meal allowance", "healthcare coverage"]
+    },
+    {
+      "role": "Product Manager",
+      "company_anchor": 22.0,
+      "budget_min": 20.0,
+      "budget_max": 28.0,
+      "benefits_anchor": ["WFH 3 days", "conference budget 80k"]
+    },
+    {
+      "role": "UX Designer",
+      "company_anchor": 15.0,
+      "budget_min": 14.0,
+      "budget_max": 19.0,
+      "benefits_anchor": ["design tools subscription", "WFH stipend"]
+    },
+    {
+      "role": "Marketing Manager",
+      "company_anchor": 18.0,
+      "budget_min": 16.0,
+      "budget_max": 23.0,
+      "benefits_anchor": ["travel reimbursement", "1L marketing budget control"]
+    },
+    {
+      "role": "Sales Executive",
+      "company_anchor": 10.0,
+      "budget_min": 8.0,
+      "budget_max": 14.0,
+      "benefits_anchor": ["commission perks", "sales incentive rewards"]
+    },
+    {
+      "role": "Finance Analyst",
+      "company_anchor": 14.0,
+      "budget_min": 12.0,
+      "budget_max": 18.0,
+      "benefits_anchor": ["CA mentorship", "training budget"]
+    },
+    {
+      "role": "Cloud Engineer",
+      "company_anchor": 25.0,
+      "budget_min": 22.0,
+      "budget_max": 30.0,
+      "benefits_anchor": ["AWS certification voucher", "WFH 2 days", "cloud lab credits"]
     }
   ]
 }
