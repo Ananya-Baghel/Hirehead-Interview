@@ -1,14 +1,74 @@
 text,sentiment_label,confidence_label
-"I successfully led a team of five to deliver the project ahead of schedule and within budget.",pos,confident
-"I struggled a bit but learned how to prioritize tasks and improved by the next sprint.",neutral,confident
-"I don't think I did well and I kept missing deadlines.",neg,hesitant
-"Um, I guess the result was okay, but I wasn't sure most of the time.",neg,hesitant
-"I streamlined the deployment pipeline reducing release time by 40%.",pos,confident
-"I collaborated with cross-functional teams to ship a feature used by 50k users.",pos,confident
-"I failed to communicate clearly, and the project stalled.",neg,hesitant
-"Uh, I'm not sure what the best approach was, we kind of tried random ideas.",neg,hesitant
-"Delivered a talk to 200 attendees; received positive feedback from peers.",pos,confident
-"I mentored two juniors and documented onboarding which cut ramp-up time.",pos,confident
-"I missed some requirements, but I created a checklist to avoid it next time.",neutral,confident
-"Honestly, I panicked during incidents and waited for others to fix things.",neg,hesitant
-"Like, I think it was fine, but I didn’t own the final delivery.",neutral,hesitant
+"I successfully led a team of five to deliver a complex project ahead of schedule.",pos,confident
+"I streamlined the CI/CD pipeline reducing deployment failures by 35%.",pos,confident
+"I collaborated with cross-functional teams to launch a feature used by 200k users.",pos,confident
+"I improved test coverage from 40% to 78% over three months.",pos,confident
+"I designed a REST API serving 50k daily requests with 99.9% uptime.",pos,confident
+"I created documentation and onboarding guides that cut ramp-up time by 2 weeks.",pos,confident
+"I automated repetitive tasks saving the team 12 hours per sprint.",pos,confident
+"I refactored legacy code and reduced technical debt significantly.",pos,confident
+"I mentored two interns successfully through project delivery.",pos,confident
+"I handled a major outage calmly and restored services within 45 minutes.",pos,confident
+"I improved query performance by optimizing indexes and SQL structure.",pos,confident
+"I built a dashboard that helped management track KPIs in real time.",pos,confident
+"I coordinated effectively to manage dependencies across multiple squads.",pos,confident
+"I conducted user interviews and guided product improvements.",pos,confident
+"I redesigned the frontend improving load times by 60%.",pos,confident
+"I enhanced the customer support workflow reducing average response time by 30%.",pos,confident
+"I initiated knowledge-sharing sessions improving team collaboration.",pos,confident
+"I handled complex tasks with minimal supervision and delivered strong outcomes.",pos,confident
+"I introduced testing best practices improving release stability.",pos,confident
+"I don't think I performed well and struggled to meet deadlines.",neg,hesitant
+"I kept missing tasks and needed constant help from teammates.",neg,hesitant
+"I often panicked during critical reviews and couldn’t articulate my ideas.",neg,hesitant
+"I wasn't sure about the requirements and delivered the wrong implementation.",neg,hesitant
+"I lacked confidence and avoided taking ownership of tasks.",neg,hesitant
+"I failed to communicate clearly which delayed the project.",neg,hesitant
+"I had difficulty resolving conflicts within the team and felt overwhelmed.",neg,hesitant
+"I often hesitated while presenting and lost track of important points.",neg,hesitant
+"I delivered subpar work because I didn't understand the problem well.",neg,hesitant
+"I missed key requirements and needed to redo the work.",neg,hesitant
+"I struggled with decision-making and needed reassurance constantly.",neg,hesitant
+"I depended too much on others and couldn't work independently.",neg,hesitant
+"I was unable to manage my time properly which caused delays.",neg,hesitant
+"I failed to meet quality standards repeatedly and required revisions.",neg,hesitant
+"Um, I guess the outcome was okay but honestly I wasn't very confident.",neutral,hesitant
+"Uh, I think I tried my best but I was kinda unsure about my choices.",neutral,hesitant
+"Like, I feel the project went fine but maybe I could have handled things better.",neutral,hesitant
+"I completed the task but I didn’t contribute much beyond basics.",neutral,hesitant
+"I followed instructions but did not take initiative.",neutral,hesitant
+"I think the result was average but I learned some important lessons.",neutral,hesitant
+"I suppose the project was fine though nothing exceptional.",neutral,hesitant
+"It went neither too well nor too bad; a standard outcome overall.",neutral,hesitant
+"I met most expectations but missed a few details.",neutral,hesitant
+"Honestly, it was just okay; nothing special to highlight.",neutral,hesitant
+"I coordinated well but the final result was fairly average.",neutral,confident
+"I delivered results but could have improved documentation.",neutral,confident
+"I communicated decently but missed a few minor points.",neutral,confident
+"I managed the workload but did not exceed expectations.",neutral,confident
+"I handled responsibilities but didn’t innovate much.",neutral,confident
+"I completed my part reliably although improvements are possible.",neutral,confident
+"I provided support to teammates and contributed moderately.",neutral,confident
+"I followed the plan and achieved the expected outcome.",neutral,confident
+"I handled the assignment adequately with room for improvements.",neutral,confident
+"I performed steadily without major challenges.",neutral,confident
+"I learned new tools and applied them successfully.",pos,confident
+"I mitigated operational risks by identifying early warnings.",pos,confident
+"I led sprint planning and reduced carry-over by 20%.",pos,confident
+"I built automation scripts saving manual effort across the team.",pos,confident
+"I supported junior engineers and improved overall team morale.",pos,confident
+"I proactively identified gaps and suggested improvements.",pos,confident
+"I increased customer satisfaction by implementing key feedback.",pos,confident
+"I improved the onboarding flow resulting in a smoother experience.",pos,confident
+"I helped reduce production bugs by implementing QA gates.",pos,confident
+"I resolved difficult blockers during tight deadlines.",pos,confident
+"I missed some requirements but improved after feedback.",neutral,hesitant
+"I gave a decent attempt but couldn't complete the feature fully.",neutral,hesitant
+"I tried different solutions but didn't reach an optimal one.",neutral,hesitant
+"I completed tasks late because I underestimated complexity.",neutral,hesitant
+"I handled basic tasks but relied heavily on assistance.",neutral,hesitant
+"I lacked clarity on the design and needed multiple reviews.",neutral,hesitant
+"I encountered issues but managed to fix them eventually.",neutral,confident
+"I delivered a stable version after several iterations.",neutral,confident
+"I gained confidence gradually and handled tasks better.",neutral,confident
+"I collaborated with teammates to resolve issues effectively.",neutral,confident
