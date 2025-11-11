@@ -1,0 +1,14 @@
+text,sentiment_label,confidence_label
+"I successfully led a team of five to deliver the project ahead of schedule and within budget.",pos,confident
+"I struggled a bit but learned how to prioritize tasks and improved by the next sprint.",neutral,confident
+"I don't think I did well and I kept missing deadlines.",neg,hesitant
+"Um, I guess the result was okay, but I wasn't sure most of the time.",neg,hesitant
+"I streamlined the deployment pipeline reducing release time by 40%.",pos,confident
+"I collaborated with cross-functional teams to ship a feature used by 50k users.",pos,confident
+"I failed to communicate clearly, and the project stalled.",neg,hesitant
+"Uh, I'm not sure what the best approach was, we kind of tried random ideas.",neg,hesitant
+"Delivered a talk to 200 attendees; received positive feedback from peers.",pos,confident
+"I mentored two juniors and documented onboarding which cut ramp-up time.",pos,confident
+"I missed some requirements, but I created a checklist to avoid it next time.",neutral,confident
+"Honestly, I panicked during incidents and waited for others to fix things.",neg,hesitant
+"Like, I think it was fine, but I didn’t own the final delivery.",neutral,hesitant
