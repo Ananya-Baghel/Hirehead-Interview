@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Interview Bot",
   description: "AI Interview Assistant",
